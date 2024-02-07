@@ -1,0 +1,71 @@
+﻿/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Navbar Styles */
+
+.navbar {
+    border-radius: 0; /* Remove border-radius */
+}
+
+.navbar-brand {
+    font-weight: bold; /* Bold font for brand */
+}
+
+.navbar-nav {
+    margin-left: auto; /* Move nav items to the right */
+}
+
+.nav-link {
+    color: #fff; /* White text color for nav links */
+}
+
+/* Page Styles */
+
+h1 {
+    color: #007bff; /* Blue color for headings */
+}
+
+p {
+    font-size: 18px; /* Larger font size for paragraphs */
+}
+
+/* Table Styles */
+
+.table {
+    margin-top: 20px;
+    border-collapse: collapse; /* Collapse table borders */
+    width: 100%;
+}
+
+    .table th,
+    .table td {
+        padding: 8px; /* Add padding to table cells */
+        text-align: left; /* Align text to the left */
+        border-bottom: 1px solid #ddd; /* Add bottom border to table cells */
+    }
+
+    .table th {
+        background-color: #007bff; /* Blue background color for table headers */
+        color: #fff; /* White text color for table headers */
+    }
+
+/* Button Styles */
+
+.btn-primary {
+    background-color: #007bff; /* Blue background color for primary buttons */
+    border-color: #007bff; /* Blue border color for primary buttons */
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3; /* Darker blue color on hover */
+        border-color: #0056b3; /* Darker blue border color on hover */
+    }

@@ -1,0 +1,9 @@
+{
+  // Custom JavaScript
+  "document.getElementById('btn-click').addEventListener('click'",
+  "function()" {
+    "alert('Button clicked!');"
+  }
+  ");",
+
+}
