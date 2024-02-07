@@ -16,8 +16,14 @@ Allergy & Asthma Network: Offers insights into asthma symptoms and triggers, hel
 Asthma and Allergy Foundation of America (AAFA): Focuses on weather triggers for asthma and provides tips for managing symptoms.
 
 GitHub Repository Research
-Repository 1: Offers code snippets for implementing weather APIs, potentially useful for integrating weather data into the application.
-Repository 2: Provides structural ideas and possibly reusable components for enhancing the application's UI/UX.
+Repository 1: Weather API for Asthma and COPD
+
+This repository provides an API for fetching weather data relevant to individuals with asthma and COPD. The README is well-structured and provides clear instructions on how to use the API, including information on endpoints, parameters, and example requests/responses. It also includes a brief explanation of why weather data is important for asthma and COPD management. The repository appears to be actively maintained, with recent commits and issues being addressed by the maintainers. Overall, it's a valuable resource for developers looking to integrate weather data into applications focused on asthma and COPD management.
+
+Repository 2: Asthma and COPD Awareness Website
+
+This repository contains code for a website aimed at raising awareness about asthma and COPD. The README provides an overview of the project, including its purpose, features, and technologies used. It also includes instructions for setting up the project locally and contributing to it. However, the README could be improved by providing more detailed information on the project structure, how to run tests, and guidelines for contributing. Despite this, the repository contains useful code and resources for building a website focused on asthma and COPD awareness.
+
 Future Enhancements
 Interactive Weather Integration: Integrate a weather API to provide real-time weather data tailored to the user's location.
 User Accounts: Implement user accounts to allow users to save preferences and receive personalized recommendations.
@@ -30,5 +36,8 @@ Website research helped gain insights into asthma and COPD management, guiding c
 Challenges included ensuring accurate and up-to-date information, as well as balancing design aesthetics with functionality. Preferred sources included reputable medical websites and GitHub repositories with well-documented code. Overall, a combination of generative AI and external resources facilitated the project's progress and development.
 
 
-
+References:
+W3Schools: For coding references and style copying.
+Josh Meadows: For anchor coding techniques.
+ChatGPT: For guidance on table styling and other web development queries.
 
