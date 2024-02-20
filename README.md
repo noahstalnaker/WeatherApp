@@ -19,20 +19,20 @@ Technical Aspect: Includes informative content and a table outlining various wea
 # Research Summary
 ## Website Research
 
-Chest Foundation: Provides comprehensive information on asthma, including triggers and management strategies.
-<br/>
-Allergy & Asthma Network: Offers insights into asthma symptoms and triggers, helping users understand their condition better.
-<br/>
-Asthma and Allergy Foundation of America (AAFA): Focuses on weather triggers for asthma and provides tips for managing symptoms.
+* Chest Foundation: Provides comprehensive information on asthma, including triggers and management strategies.
+  
+* Allergy & Asthma Network: Offers insights into asthma symptoms and triggers, helping users understand their condition better.
+
+* Asthma and Allergy Foundation of America (AAFA): Focuses on weather triggers for asthma and provides tips for managing symptoms.
 <br/>
 <br/>
 
-# GitHub Repository Research
+## GitHub Repository Research
 
-## Repository 1: Weather API for Asthma and COPD
+* Repository 1: Weather API for Asthma and COPD
 This repository provides an API for fetching weather data relevant to individuals with asthma and COPD. The README is well-structured and provides clear instructions on how to use the API, including information on endpoints, parameters, and example requests/responses. It also includes a brief explanation of why weather data is important for asthma and COPD management. The repository appears to be actively maintained, with recent commits and issues being addressed by the maintainers. Overall, it's a valuable resource for developers looking to integrate weather data into applications focused on asthma and COPD management.
 
-## Repository 2: Asthma and COPD Awareness Website
+* Repository 2: Asthma and COPD Awareness Website
 This repository contains code for a website aimed at raising awareness about asthma and COPD. The README provides an overview of the project, including its purpose, features, and technologies used. It also includes instructions for setting up the project locally and contributing to it. However, the README could be improved by providing more detailed information on the project structure, how to run tests, and guidelines for contributing. Despite this, the repository contains useful code and resources for building a website focused on asthma and COPD awareness.
 <br/>
 <br/>
