@@ -51,7 +51,7 @@ Challenges included ensuring accurate and up-to-date information, as well as bal
 <br/>
 <br/>
 
-## References:
+# References:
 W3Schools: For coding references and style copying.
 
 Josh Meadows: For anchor coding techniques, as well as styling for the api's.
